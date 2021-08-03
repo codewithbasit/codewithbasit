@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning `python django` framework.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 You can reach me on codwithbasit@gmail.com.
+- 📫 You can reach me on codewithbasit@gmail.com.
 
 <!---
 codewithbasit/codewithbasit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
